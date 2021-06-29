@@ -13,7 +13,7 @@ Updated District Summary
 <img width="1011" alt="District_Sum_Updated" src="https://user-images.githubusercontent.com/85457256/123850378-f686b380-d8e7-11eb-9980-116d475b1c9c.png">
 
 
-- The school summary is mostly the same except that THS has different data reported in the summary after removing the ninth grader's data. For example, THS's original % Passing Math and % Passing Reading were 93.3% and 97.3% respectively.  They now are 93.2% and 97.0% respectively. The % Passing Overall was 90.9% and is now 90.6% without including ninth graders' data.
+- The school summary is mostly the same except that THS has different data reported in the summary after removing the ninth grader's data. For example, THS's original % Passing Math and % Passing Reading were 93.3% and 97.3% respectively.  They now are 93.2% and 97.0% respectively. The % Passing Overall was 90.9% and is now 90.6% without including ninth graders' data. In addition, the average math score is now lower (83.42% to 83.35%) and the average reading score is higher (83.84% to 83.89%). 
 - Replacing THS's ninth grade reading and math scores does not affect THS relative position in the district. In both analyses THS is the second to the top school based on % Overall Passing data. 
 - Replacing THS's ninth grade reading and math scores...
   - Did not affect the math and reading scores for the 10th, 11th, and 12th grades across the schools (as seen in the images below for this section).  The only difference is that THS no longer has data displayed for its ninth graders.

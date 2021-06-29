@@ -20,11 +20,13 @@ Updated District Summary
 
     Original Scores by Grades
     
-    <img width="545" alt="Math_Scores_by_Grade_Original" src="https://user-images.githubusercontent.com/85457256/123856577-45841700-d8ef-11eb-9369-e3af9d713a7e.png"><img width="447" alt="Reading_Scores_by_grade_Original" src="https://user-images.githubusercontent.com/85457256/123857910-e7583380-d8f0-11eb-863b-8f5596f85b6f.png">
+    <img width="545" alt="Math_Scores_by_Grade_Original" src="https://user-images.githubusercontent.com/85457256/123856577-45841700-d8ef-11eb-9369-e3af9d713a7e.png">
+    <img width="447" alt="Reading_Scores_by_grade_Original" src="https://user-images.githubusercontent.com/85457256/123857910-e7583380-d8f0-11eb-863b-8f5596f85b6f.png">
 
     Updated Scores by Grades
     
-    <img width="510" alt="Math_Scores_by_Grade_Updated" src="https://user-images.githubusercontent.com/85457256/123857350-2934aa00-d8f0-11eb-9543-39a61735daa6.png"><img width="453" alt="Reading_Scores_by_Grade_Updated" src="https://user-images.githubusercontent.com/85457256/123857367-2d60c780-d8f0-11eb-83a8-04319642236a.png">
+    <img width="510" alt="Math_Scores_by_Grade_Updated" src="https://user-images.githubusercontent.com/85457256/123857350-2934aa00-d8f0-11eb-9543-39a61735daa6.png">
+    <img width="453" alt="Reading_Scores_by_Grade_Updated" src="https://user-images.githubusercontent.com/85457256/123857367-2d60c780-d8f0-11eb-83a8-04319642236a.png">
     
   - Only affected the $630-644 spending range per student as seen in the tables below.  The majority of the reading and math statistics and passing percentages for this spending category dropped once THS's 9th grade data was not included which shows that the amount spent does not have the slightly higher averages and passing percentages like the original analysis suggested. However, the average reading score rose with the updated data. 
   

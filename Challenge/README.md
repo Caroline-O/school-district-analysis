@@ -2,10 +2,13 @@
 After generating the district's schools' reading and math scores statistics and grouping them based on type, size, and budget categories, one of the school's data was flagged.  Thomas High School's (THS) ninth grade data was flagged for academic dishonesty and therefore the analysis had to be redone.  This involved removing THS's ninth grade data and replacing with 'nan'.  After this was complete, THS's reading and math score statistics were recalculated and the district's schools were re-grouped based on type, size, and budget. 
 
 ## Results Analysis
-- Based on the updated analysis, the school district summary now shows lower average math and reading scores and percentages as seen in the images below.
+- Based on the updated analysis, the school district summary now shows lower average passing math and reading scores and percentages as seen in the images below.
 
 Original District Summary
-![District_Summary_Original](Original%Data%pic\District_Sum_Original.png)
+
+<img width="1025" alt="District_Sum_Original" src="https://user-images.githubusercontent.com/85457256/123851175-e4f1db80-d8e8-11eb-9316-338c088f80b4.png">
+
+![District_Summary_Original](Original%Data%pic/District_Sum_Original.png)
 
 
 Updated District Summary
